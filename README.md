@@ -1,36 +1,48 @@
-# Pedro italo.dev
 # 👋 Olá, eu sou Pedro Silva
 
 💻 Desenvolvedor Front-End em formação  
 🎓 Estudante de Sistemas de Informação  
-🚀 Focado em HTML, CSS e JavaScript, reactjs, typescript
+🚀 Apaixonado por tecnologia, web e aprendizado contínuo
 
 ---
 
 ## 🛠️ Tecnologias
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (em aprendizado)
 - reactjs
 - typescript
 - Git e GitHub
 
 ---
 
-## 📂 Projetos
-🔹 [Landing Page Academia](link)  
-🔹 [Sistema simples de controle de validade](link)  
-🔹 [Site institucional responsivo](link)
+## 📂 Projetos em Destaque
+🔹 **Projeto simples para uma barbearia**  
+Projeto focado em layout moderno e responsivo  
+➡️ https://github.com/seu-usuario/landing-page-fitness
+➡️ https://projeto-two-ochre.vercel.app/maim
+
+
+
+🔹 **Página de Login simples**  
+Treino de formulários e estilização  
+➡️ https://github.com/Pedroita-057/Meu-primeiro-projeto.-P-gina-de-login-simples.git
 
 ---
 
 ## 📚 Atualmente estudando
 - reactjs
 - typescript
-- CSS Responsivo (Flexbox e Grid)
+- Flexbox e CSS Grid
+- Boas práticas de Front-End
 
 ---
 
-## 📫 Contato:
-- LinkedIn: seu link: https://www.linkedin.com/in/pedro-italo-54a78b246/
-- Email: pedro.italo@arapiraca.ufal.br
+## 🎯 Objetivo
+Conquistar minha primeira oportunidade como Desenvolvedor Front-End e evoluir constantemente na área de tecnologia.
+
+---
+
+## 📫 Contato
+- 📧 Email: pedro.italo@arapiraca.ufal.br
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-italo-54a78b246/

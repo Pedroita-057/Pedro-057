@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou Pedro Silva
+# 👋 Olá, eu sou Pedro Italo
+
+<img src="https://avatars.githubusercontent.com/u/207792501?s=400&u=67134c12a513b27930792e21507ae138af4c9257&v=4" width="150px">
+
 
 💻 Desenvolvedor Front-End em formação  
 🎓 Estudante de Sistemas de Informação  

@@ -22,7 +22,8 @@
 ## 📂 Projetos em Destaque
 🔹 **Projeto simples para uma barbearia**  
 Projeto focado em layout moderno e responsivo  
-➡️ https://github.com/seu-usuario/landing-page-fitness
+➡️ https://github.com/Pedroita-057/Projeto.git
+
 ➡️ https://projeto-two-ochre.vercel.app/maim
 
 

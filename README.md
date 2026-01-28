@@ -32,6 +32,11 @@ Projeto focado em layout moderno e responsivo
 Treino de formulários e estilização  
 ➡️ https://github.com/Pedroita-057/Meu-primeiro-projeto.-P-gina-de-login-simples.git
 
+🔹 **Tabuada simples**  
+Praticando os conceitos da linguagem  
+➡️  https://lnkd.in/dssHGgiD
+
+
 ---
 
 ## 📚 Atualmente estudando
